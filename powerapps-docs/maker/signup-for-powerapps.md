@@ -18,6 +18,7 @@ contributors:
 
 You can explore all the Power Apps capabilities for free by signing up for a 30-day Power Apps trial plan. If you don't have any license for Power Apps, the trial plan provides temporary access to do the following activities:
 
+//test changes 
 - Extend the capabilities of Office 365 (SharePoint Online, Teams, Excel, and more)
 - Create and run canvas apps that connect to Microsoft Dataverse and a wide range of more than 200 other data sources, including premium connectors and on-premises data
 - Create and run model-driven apps
